@@ -12,7 +12,7 @@ http://akizukidenshi.com/catalog/g/gP-03620/
 
 <br>
 
-#### パーツ説明
+#### 説明
 
 **・水晶発信子**
 <br>
