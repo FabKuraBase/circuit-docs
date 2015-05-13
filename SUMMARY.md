@@ -6,7 +6,7 @@
    * [5Vへの電圧変換](article1-2.md)
    * [マイコンの接続](article1-3.md)
    * [水晶発信子の接続](article1-4.md)
-   * [動作確認](article1-5.md)
+   * [LED接続](article1-5.md)
    * [リセットボタン追加](article1-6.md)
    * [USBシリアル変換モジュールの接続](article1-7.md)
    * [マイコンへの書込み](article1-8.md)
