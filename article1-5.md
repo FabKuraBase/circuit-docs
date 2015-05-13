@@ -11,6 +11,8 @@ LED
 http://akizukidenshi.com/catalog/g/gI-00562/
 
 <br>
+
+#### 説明
 ATMEGA 328PのArduinoのスケッチ上でのピン配置は下記の通りになります。
 
 ![](circuit1-09.jpg)
