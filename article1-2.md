@@ -28,7 +28,7 @@ http://akizukidenshi.com/catalog/g/gP-00452/
 
 <br>
 
-#### パーツの説明
+#### 説明
 
 **・ブレッドボード**
 
