@@ -1,10 +1,31 @@
 # マイコンの配置
 
+執筆中
+
+Arduino Unoで使用されている「ATMEGA328P」を配置します。
+
 ATMEGA328P
 <br>
-![](circuit2-4-01.jpg
+[データシート](
+http://www.atmel.com/images/Atmel-8271-8-bit-AVR-Microcontroller-ATmega48A-48PA-88A-88PA-168A-168PA-328-328P_datasheet_Complete.pdf)
 
-ATMEGA328Pの配線をおこないます。
+
+## ATMEGA328の配置
+
+
+ATMEGA328Pを配置します。
+<br>
+ツールバーのAddを選択し、ATMEGA*で検索を行い、「ATMEGA328P_PDIP」を選択します。
+
+<br>
+![](circuit2-4-02.jpg)
+
+ATMEGA328Pは空いている箇所に配置します。
+<br>
+少し余裕を持って配置すると良いです。
+<br>
+![](circuit2-4-03.jpg)
+
 
 ATMEGA328Pのデータシート
 
