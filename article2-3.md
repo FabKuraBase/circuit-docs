@@ -111,29 +111,37 @@ http://akizukidenshi.com/catalog/g/gI-01373/
 <br>
 
 
-GNDを追加
+## GNDを追加
+GNDを追加します。
+ツールバーより「Add」を選択します。
 <br>
 ![](circuit2-3-17.jpg)
 
 <br>
 
+「GND」で検索し、「supply1」の「GND」を選択します。
 <br>
 ![](circuit2-3-18.jpg)
 
 <br>
 
+GNDは先ほど作成した回路の下部分に配置します。
 <br>
 ![](circuit2-3-19.jpg)
 
 <br>
 
+配置の次は配線です。ツールバーより「Net」を選択します。
 <br>
 ![](circuit2-3-20.jpg)
 
+GNDから上に線を引き、上の回路に繋げます。
 <br>
 ![](circuit2-3-20-2.jpg)
 <br>
-出力される5V
+
+## 出力される5V
+
 
 保存
 
