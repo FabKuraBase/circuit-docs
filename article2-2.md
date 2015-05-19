@@ -15,7 +15,7 @@
 <br>
 ツールバーより「Add」を選択します。
 <br>
-![](circuit2-2-03.jpg)
+![]circuit2-2-03.jpg)
 
 ADDのウィンドウが表示されました。
 ここから「adafruit」より「ARDUINOUNO」を選択し、「OK」ボタンを押下します。
