@@ -2,6 +2,7 @@
 
 
 3端子レギュレータ(7805)
+<br>
 http://akizukidenshi.com/catalog/g/gI-01373/
 
 
