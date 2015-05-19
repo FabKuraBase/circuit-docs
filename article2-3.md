@@ -131,7 +131,7 @@ GNDを追加
 ![](circuit2-3-20.jpg)
 
 <br>
-
+![](circuit2-3-20-2.jpg)
 <br>
 出力される5V
 
