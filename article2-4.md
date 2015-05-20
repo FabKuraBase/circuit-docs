@@ -43,8 +43,36 @@ ATMEGA328Pのデータシート
 
 <br>
 
-ラベル名の変更
+<br>
+![](circuit2-4-06.jpg)
 
+<br>
+
+<br>
+![](circuit2-4-07.jpg)
+
+<br>
+
+<br>
+![](circuit2-4-08.jpg)
+
+<br>
+
+<br>
+![](circuit2-4-09.jpg)
+
+<br>
+
+ラベル名の変更
+<br>
+![](circuit2-4-10.jpg)
+
+<br>
+
+<br>
+![](circuit2-4-11.jpg)
+
+<br>
 
 ATMEGA 328Pの説明
 
@@ -60,11 +88,11 @@ Re：Reset
 <br>
 5V：5V入力
 
-GND
+GNDと5V電源
+<br>
+![](circuit2-4-12.jpg)
 
-線のラベル名がGNDになっているのですでにつながっています。
-
-5V電源
+<br>
 
 
 
