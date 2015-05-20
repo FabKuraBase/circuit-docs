@@ -1,7 +1,5 @@
 # マイコンの配置
 
-執筆中
-
 Arduino Unoで使用されている「ATMEGA328P」を配置します。
 
 ATMEGA328P
@@ -16,9 +14,10 @@ http://www.atmel.com/images/Atmel-8271-8-bit-AVR-Microcontroller-ATmega48A-48PA-
 ATMEGA328Pを配置します。
 <br>
 ツールバーのAddを選択し、ATMEGA*で検索を行い、「ATMEGA328P_PDIP」を選択します。
-
 <br>
 ![](circuit2-4-02.jpg)
+
+<br>
 
 ATMEGA328Pは空いている箇所に配置します。
 <br>
@@ -26,6 +25,7 @@ ATMEGA328Pは空いている箇所に配置します。
 <br>
 ![](circuit2-4-03.jpg)
 
+<br>
 
 ATMEGA328Pのデータシート
 
