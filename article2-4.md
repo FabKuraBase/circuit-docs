@@ -121,10 +121,6 @@ Re：Reset
 <br>
 ![](circuit2-4-14.jpg)
 
-<br>
-
-
-
 
 
 
