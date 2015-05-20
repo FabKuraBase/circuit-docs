@@ -27,6 +27,16 @@ ATMEGA328Pは空いている箇所に配置します。
 
 <br>
 
+<br>
+![](circuit2-4-04.jpg)
+
+<br>
+
+<br>
+![](circuit2-4-05.jpg)
+
+<br>
+
 ATMEGA328Pのデータシート
 
 
