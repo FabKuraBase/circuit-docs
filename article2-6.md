@@ -70,14 +70,21 @@ Digital 0-13(D0-D13)も配線します。
 
 <br>
 
+#### 5V、GNDの配線
+配置済みのGNDをコピーし、新たに２つ配置します。
 <br>
-![](circuit2-6-.jpg)
+上下のGNDに対してそれぞれ配線します。
+<br>
 ![](circuit2-6-11.jpg)
 <br>
 
++5Vも同様に配置し、配線します。
 <br>
-![](circuit2-6-.jpg)
+![](circuit2-6-12.jpg)
 
 <br>
 
+AREFから線を引き、名称を「AREF」に変更します。
+<br>
+![](circuit2-6-13.jpg)
 
