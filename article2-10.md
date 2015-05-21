@@ -118,10 +118,3 @@
 <br>
 ![](circuit2-10-24.jpg)
 
-<br>
-
-<br>
-![](circuit2-10-25.jpg)
-
-<br>
-
