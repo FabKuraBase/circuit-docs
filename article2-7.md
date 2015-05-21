@@ -19,3 +19,6 @@ LEDを2つ並べて配置します。
 
 <br>
 ![](circuit2-7-04.jpg)
+
+<br>
+![](circuit2-7-05.jpg)
