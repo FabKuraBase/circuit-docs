@@ -72,7 +72,7 @@ Digital 0-13(D0-D13)も配線します。
 
 <br>
 ![](circuit2-6-.jpg)
-
+![](circuit2-6-11.jpg)
 <br>
 
 <br>
