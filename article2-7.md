@@ -11,3 +11,4 @@
 
 <br>
 ![](circuit2-7-04.jpg)
+![](circuit2-7-04.jpg)
