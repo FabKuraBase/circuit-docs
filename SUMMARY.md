@@ -14,7 +14,7 @@
    * [環境設定](article2-1.md)
    * [下地の配置](article2-2.md)
    * [レギュレータ、DCジャックの配置](article2-3.md)
-   * [マイコンの配置](article2-4.md)
+   * [ICの配置](article2-4.md)
    * [水晶発信子の配置](article2-5.md)
    * [配線](article2-6.md)
    * [LEDの配置](article2-7.md)
