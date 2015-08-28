@@ -26,7 +26,7 @@ http://akizukidenshi.com/catalog/g/gB-03257/
 <br>
 http://akizukidenshi.com/catalog/g/gP-00452/
 
-デジタルマルチテスター
+テスター
 <br>
 http://akizukidenshi.com/catalog/g/gM-05910/
 <br>
