@@ -1,5 +1,17 @@
 # マイコンへの書込み
 
+###準備
+RomライターシールドをArduinoUnoに差し込む。
+
+PCに接続
+
+スケッチを選択　ファイル→スケッチブックの例→ArduinoISP→ArduinoISP
+スケッチを書き込む ツール→書込装置→Arduino as ISP→Arduino as ISP
+ブートローダーを書き込む　ツールブートローダーを書き込む
+
+エラーメッセージ
+
+
 
 ArduinoIDEを起動し、メニューより、[ファイル]→[スケッチの例]→ [1.Basics]→[Blink]を選択します。
 <br>
