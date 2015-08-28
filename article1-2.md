@@ -18,7 +18,7 @@ http://akizukidenshi.com/catalog/g/gP-02211/
 <br>
 http://akizukidenshi.com/catalog/g/gP-04227/
 
-９V１アルカリ電池
+９V アルカリ電池
 <br>
 http://akizukidenshi.com/catalog/g/gB-03257/
 
