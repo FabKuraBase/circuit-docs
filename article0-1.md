@@ -29,35 +29,16 @@ http://www.ftdichip.com/Drivers/VCP.htm
 <br>
 http://akizukidenshi.com/catalog/g/gP-05294/
 
-ATMEGA328（ブートローダー書き込み済）
+ATMEGA328（ブートローダーなし）
 <br>
-https://www.switch-science.com/catalog/663/
+http://akizukidenshi.com/catalog/g/gI-03142/
 
 FT232RL搭載小型USB-シリアルアダプタ 5V
 <br>
 http://www.switch-science.com/products/detail.php?product_id=342
 
-水晶発信子(16MHz)
-<br>
-http://akizukidenshi.com/catalog/g/gP-08671/
 
-3端子レギュレータ(7805)
-<br>
-http://akizukidenshi.com/catalog/g/gI-01373/
-
-セラミックコンデンサ 22pF(22)　×　2
-<br>
-http://akizukidenshi.com/catalog/g/gP-03620/
-
-セラミックコンデンサ 0.1μF(104)　×　2
-<br>
-http://akizukidenshi.com/catalog/g/gP-02211/
-
-セラミックコンデンサ 0.33μF(334)
-<br>
-http://akizukidenshi.com/catalog/g/gP-04227/
-
-単一乾電池
+アルカリ電池　９Ｖ
 <br>
 http://akizukidenshi.com/catalog/g/gB-03257/
 
