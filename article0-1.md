@@ -25,9 +25,9 @@ http://www.ftdichip.com/Drivers/VCP.htm
 ## 作成に必要なもの
 
 
-ブレッドボード　×　2
+Arduino UNO
 <br>
-http://akizukidenshi.com/catalog/g/gP-05294/
+http://akizukidenshi.com/catalog/g/gM-07385/
 
 ATMEGA328（ブートローダーなし）
 <br>
@@ -38,33 +38,6 @@ FT232RL搭載小型USB-シリアルアダプタ 5V
 http://www.switch-science.com/products/detail.php?product_id=342
 
 
-アルカリ電池　９Ｖ
-<br>
-http://akizukidenshi.com/catalog/g/gB-03257/
-
-バッテリースナップ（電池スナップ）「縦型」
-<br>
-http://akizukidenshi.com/catalog/g/gP-00452/
-
-LED
-<br>
-http://akizukidenshi.com/catalog/g/gI-00562/
-
-タクトスイッチ
-<br>
-http://akizukidenshi.com/catalog/g/gP-02561/
-
-抵抗　 330Ω　（カラー：橙橙茶金）
-<br>
-http://akizukidenshi.com/catalog/g/gR-25331/
-
-抵抗　 1KΩ　（カラー：茶黒赤金）
-<br>
-http://akizukidenshi.com/catalog/g/gR-25102/
-
-抵抗　10KΩ　（カラー：茶黒橙金）
-<br>
-http://akizukidenshi.com/catalog/g/gR-25103/
-
+Fab蔵オリジナル ROMライター
 <br>
 
