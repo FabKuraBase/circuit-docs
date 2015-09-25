@@ -4,6 +4,7 @@
 
 ArduinoUnoにRomライターシールドを差し込み、PCに接続する。
 
+
 ####ArduinoをISPに設定
 
 ArduinoIDEを起動し、メニューより、[ファイル]→[スケッチの例]→ [11.ArduinoISP]→[ArduinoISP]を選択します。
@@ -15,7 +16,7 @@ ArduinoIDEを起動し、メニューより、[ファイル]→[スケッチの�
 ![](circuit0-2.jpg)
 
 
-メニューの[ツール]→[シリアルポート]→[/dev/tty.usbserial-◯◯]を選択します。
+メニューの[ツール]→[シリアルポート]→[/dev/cu.usb◯◯◯(Arduino Uno)]を選択します。
 <br>
 ![](circuit0-3.jpg)
 
