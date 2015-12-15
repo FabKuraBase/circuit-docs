@@ -114,6 +114,9 @@ Eagleをダウンロードして、インストールします。
 
 ## 発注用データの作成
 
+GithubからScriptを持ってくる。
+https://github.com/FaBoPlatform/FaBo/tree/master/cam/elecrow
+
 ![](img/eagle043.png)
 
 ![](img/eagle044.png)
