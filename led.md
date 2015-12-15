@@ -114,8 +114,7 @@ Eagleをダウンロードして、インストールします。
 
 ## 発注用データの作成
 
-GithubからScriptを持ってくる。
-https://github.com/FaBoPlatform/FaBo/tree/master/cam/elecrow
+https://www.dropbox.com/s/fj1roo7sxyxke1x/Elecrow_Gerber_Generater_DrillAlign.cam?dl=0
 
 ![](img/eagle043.png)
 
