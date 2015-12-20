@@ -18,7 +18,9 @@ Eagleをダウンロードして、インストールします。
 
 ## LEDの追加
 
-![](img/eagle004.png)
+![](img/eagle004_1.png)
+
+![](img/eagle004_2.png)
 
 ![](img/eagle005.png)
 
@@ -26,7 +28,9 @@ Eagleをダウンロードして、インストールします。
 
 ## 抵抗の追加
 
-![](img/eagle007.png)
+![](img/eagle007_1.png)
+
+![](img/eagle007_2.png)
 
 ![](img/eagle008.png)
 
@@ -38,7 +42,9 @@ Eagleをダウンロードして、インストールします。
 
 ## VCCの追加
 
-![](img/eagle012.png)
+![](img/eagle012_1.png)
+
+![](img/eagle012_2.png)
 
 ![](img/eagle013.png)
 
