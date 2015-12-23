@@ -54,11 +54,11 @@
 
 ![](img/amp019.png)
 
-![](img/amp020.png)
+![](img/amp021.png)
 
 ## 完成図
 
-![](img/amp021.png)
+![](img/amp020.png)
 
 ## レイアウトの作成
 
