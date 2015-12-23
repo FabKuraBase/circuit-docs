@@ -1,4 +1,9 @@
-# 室温度DHT11
+# 湿度/温度センサー AM2321
+
+[AM2321](http://akizukidenshi.com/catalog/g/gM-07001/)
+
+![](img/amp000.png)
+
 
 ## 端子の追加
 
