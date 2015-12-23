@@ -90,9 +90,9 @@
 
 ![](img/amp032.png)
 
-![](img/amp033.png)
+## Autorouter
 
-## 線を引く
+![](img/amp033.png)
 
 ![](img/amp034.png)
 
