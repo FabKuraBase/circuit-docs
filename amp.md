@@ -5,6 +5,7 @@
 ![](img/amp000.png)
 
 
+
 ## 端子の追加
 
 ![](img/amp001.png)
