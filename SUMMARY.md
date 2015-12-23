@@ -2,7 +2,8 @@
 
 * [introduction](README.md)
 * [LED](led.md)
-* [室温度DHT11](dht11md.md)
+* [湿度/温度DHT11](dht11md.md)
+* [湿度/温度 AMP2321(I2C)](amp.md)
 * [照度](light.md)
 * [ブートローダー](chapter0.md)
    * [環境設定](article0-1.md)
