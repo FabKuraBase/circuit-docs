@@ -70,9 +70,11 @@
 
 ![](img/lab02/adxl345_027.png)
 
-## レイアウトの調整
+![](img/lab02/adxl345_028.png)
 
 ![](img/lab02/adxl345_029.png)
+
+## レイアウトの調整
 
 ![](img/lab02/adxl345_030.png)
 
@@ -85,4 +87,6 @@
 ![](img/lab02/adxl345_034.png)
 
 ![](img/lab02/adxl345_035.png)
+
+![](img/lab02/adxl345_036.png)
 
