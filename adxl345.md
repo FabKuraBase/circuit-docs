@@ -1,7 +1,6 @@
 # (加速度)ADXL345(I2C)
 
 [データシート](http://www.analog.com/media/jp/technical-documentation/data-sheets/ADXL345_jp.pdf)
-<<<<<<< HEAD
 
 ## ADXL345
 
@@ -71,6 +70,3 @@
 
 ![](img/lab02/adxl345_027.png)
 
-
-=======
->>>>>>> 77a3bf2bf2d93e1ccc13d12638bda2a06ade3611
