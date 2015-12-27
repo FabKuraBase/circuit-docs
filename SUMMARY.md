@@ -10,6 +10,7 @@
 * [Lab2(2つ目のI2C)](lab02.md)
    * [(気圧)MPL115(I2C)](mpl115.md)
    * [(加速度)ADXL345(I2C)](adxl345.md)
+   * [(照度)ISL29034(I2C)](isl.md)
 * [Lab3](lab03.md)
    * [そのほかのI2Cセンサーの接続口を追加](etc.md)
 * [ブートローダー](chapter0.md)
